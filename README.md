@@ -1,1 +1,2 @@
 # Refactor-Challenge
+In this challenge, I have made the webpage more accessible. Semantic html elements have been added and links have been corrected to make ti more functional. Additionally, changes to the CSS file include re-arranging it to match HTML structure to consolidate codes. 
